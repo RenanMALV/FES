@@ -9,4 +9,4 @@ DRE: 115196299
 DRE: 116035030
 
 ## [Link para a apresentação sobre as oportunidades](https://docs.google.com/presentation/d/1WKw0rXlK_6LtJDeIbqEFIgiWm_uWjZAT6hRvB1HjCBI/edit?usp=sharing)
-## [Link para o trabalho de Histórias do Usuário (Story Map)]()
+## [Link para o trabalho de Histórias do Usuário (Story Map)](https://miro.com/welcomeonboard/BRuMej3roHJBUEdKhVMULk5MY1twvtXpnK5vVt91aQpZKpuM7zCFhAwhod30vKNo)
