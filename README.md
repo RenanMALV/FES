@@ -15,3 +15,4 @@ DRE: 116035030
 ## [Link para o trabalho de Histórias do Usuário (Story Map)](https://miro.com/welcomeonboard/BRuMej3roHJBUEdKhVMULk5MY1twvtXpnK5vVt91aQpZKpuM7zCFhAwhod30vKNo)
 ## [Link para a análise dos pontos de função](https://docs.google.com/spreadsheets/d/1voGMdp-_yMla13pED7LHVxbrCSR98XVNLB7uwObjSaE/edit?usp=sharing)
 Foi feita a análise dos pontos de função de um projeto de desenvolvimento, portanto, estimamos o total com uma margem que pode variar entre 15-25% do descrito na tabela.
+## [Relatório final do trabalho](https://github.com/RenanMALV/FES/blob/main/Relat%C3%B3rioFlexTime.pdf)
